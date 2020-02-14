@@ -1,0 +1,5 @@
+﻿  exercise_3.cpp
+d:\education\programming\coursera\c-plus-plus-white-belt\week_2\vector\exercise_3\exercise_3\exercise_3.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\education\programming\coursera\c-plus-plus-white-belt\week_2\vector\exercise_3\exercise_3\exercise_3.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\education\programming\coursera\c-plus-plus-white-belt\week_2\vector\exercise_3\exercise_3\exercise_3.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  exercise_3.vcxproj -> D:\Education\Programming\Coursera\c-plus-plus-white-belt\week_2\vector\exercise_3\Debug\exercise_3.exe
